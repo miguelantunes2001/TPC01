@@ -1,0 +1,3 @@
+C:\ISEL\4_SEM\AVE\TPC\PointLib\bin\Debug\net5.0\publish\PointLib.dll
+C:\ISEL\4_SEM\AVE\TPC\PointLib\bin\Debug\net5.0\publish\PointLib.deps.json
+C:\ISEL\4_SEM\AVE\TPC\PointLib\bin\Debug\net5.0\publish\PointLib.pdb

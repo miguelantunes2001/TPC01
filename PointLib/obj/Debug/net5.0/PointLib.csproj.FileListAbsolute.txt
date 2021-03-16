@@ -1,0 +1,12 @@
+C:\ISEL\4_SEM\AVE\TPC\PointLib\bin\Debug\net5.0\PointLib.deps.json
+C:\ISEL\4_SEM\AVE\TPC\PointLib\bin\Debug\net5.0\PointLib.dll
+C:\ISEL\4_SEM\AVE\TPC\PointLib\bin\Debug\net5.0\ref\PointLib.dll
+C:\ISEL\4_SEM\AVE\TPC\PointLib\bin\Debug\net5.0\PointLib.pdb
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\PointLib.csprojAssemblyReference.cache
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\PointLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\PointLib.AssemblyInfoInputs.cache
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\PointLib.AssemblyInfo.cs
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\PointLib.csproj.CoreCompileInputs.cache
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\PointLib.dll
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\ref\PointLib.dll
+C:\ISEL\4_SEM\AVE\TPC\PointLib\obj\Debug\net5.0\PointLib.pdb
